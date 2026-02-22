@@ -155,3 +155,4 @@ video.onplay = () => { recorder.start(); drawFrame(); };
 | State | React `useState` / `useCallback` |
 | Export | `canvas.toDataURL` → `<a>` download |
 | Fonts | Google Fonts (DM Sans + DM Mono) |
+ 
